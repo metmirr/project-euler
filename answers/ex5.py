@@ -21,8 +21,3 @@ while True:
 
 print('answer:', n)
 
-
-
-
-
-
