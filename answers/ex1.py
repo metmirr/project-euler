@@ -13,5 +13,5 @@ def find_sum(number):
     return answer
 
 
-if __name__ == '__main__':
-    print('answer: ', find_sum(1000))
+print('answer: ', find_sum(1000))
+
